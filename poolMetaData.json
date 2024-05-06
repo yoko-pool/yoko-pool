@@ -1,6 +1,8 @@
 {
-"name": "YOKO Stake Pool",
-"description": "Hi! This is YOKO Stake Pool. Thank you.",
-"ticker": "YOKO",
-"homepage": "https://twitter.com/taichiyokoyama_"
+    "name": "AIRX Stake Pool",
+    "description": "AIRX Stake Pool is the key that connects Japan to the world.",
+    "ticker": "AIRX",
+    "homepage": "https://twitter.com/taichiyokoyama_",
+    "extended": "",
+    "nonce":"1714967789"
 }
